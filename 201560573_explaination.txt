@@ -1,0 +1,2 @@
+This is the first time for me with linux. 
+The tutorial showed me about push and pull commands and also to see recent changes using 'git diff'.
